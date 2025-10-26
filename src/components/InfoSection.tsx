@@ -137,7 +137,7 @@ export default function InfoSection() {
                   <span className="text-sm font-medium">Encrypted Output</span>
                 </div>
                 <div className="bg-gray-800/50 border border-gray-700 p-4 rounded-xl backdrop-blur-sm">
-                  <code className="text-blue-300 font-mono text-sm break-all">zafolopuxixijanujafodu jasequpuja gagaqula</code>
+                  <code className="text-blue-300 font-mono text-sm break-all">zafolopuxixijanujafodu pelalotivo pulagajako</code>
                 </div>
               </div>
             </div>
